@@ -1,0 +1,19 @@
+body{
+    width: 1024px;
+    margin: auto;
+}
+
+a{
+    font-style: italic;
+}
+
+header,
+footer{
+    background: gainsboro;
+    padding: 25px 10px;
+}
+
+.name img{
+    width: 10%;
+    
+}
