@@ -1,0 +1,22 @@
+body{
+    width: 1024px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+a{
+    font-style: italic;
+}
+li{
+    list-style-type: circle;
+}
+
+header,
+footer{
+    background: gainsboro;
+    padding: 25px 10px;
+}
+
+.name img{
+    width: 10%;
+}
