@@ -1,6 +1,7 @@
 body{
     width: 1024px;
     margin: auto;
+    font-family: sans-serif;
 }
 
 a{
@@ -18,5 +19,4 @@ footer{
 
 .name img{
     width: 10%;
-    
 }
